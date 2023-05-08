@@ -24,9 +24,7 @@
 <h2 style="font-family: cursive;">◉<b><i>Proyecto Individual Food</i></b></h2>
 <p>Es una App informativa de Recetas y Dietas</p>
    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
- <a href="https://github.com/CarolinaRios92/PI-Food-main"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
- <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo</h3>
-  
+ <a href="https://github.com/CarolinaRios92/PI-Food-main"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://pi-food-front-production-9997.up.railway.app/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
  <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deploy</h3>
  </div>
