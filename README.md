@@ -25,7 +25,7 @@
 <h4 style=" font-size: large"><b>🍳 Proyecto Individual Food</b></h4>
 <p>Es una App informativa de Recetas y Dietas</p>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<a href="https://github.com/CarolinaRios92/PI-Food-main"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<a href="https://github.com/CarolinaRios92/PI-Food-main"><img  width='50' src='https://cdn-icons-png.flaticon.com/512/25/25231.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
  <a href="https://pi-food-front-production-9997.up.railway.app/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
 
  <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deploy</h3>
@@ -35,7 +35,7 @@
 <h2 style="font-size: large"><b>💻 Vizta</b></h2>
 <p>Portal de Anuncios Clasificados</p>
    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
- <a href="https://github.com/storevizta/vizta"><img  width='50' src='https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://viztastore.onrender.com/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
+ <a href="https://github.com/storevizta/vizta"><img  width='50' src='https://cdn-icons-png.flaticon.com/512/25/25231.png'/></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://viztastore.onrender.com/"><img  width='50' src='https://www.drupal.org/files/project-images/icon-deploy.png'/></a>
  <h3><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Repo<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deploy</h3>
 </div>
  <div>
